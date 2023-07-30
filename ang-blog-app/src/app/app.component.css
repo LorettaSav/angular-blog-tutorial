@@ -12,7 +12,13 @@ main {
     ensuring that exactly enough space is left for the
     footer inside the container they are both in.  */
   padding-bottom: 2.5rem;
+  margin-left: 2vw;
 }
+
+nav {
+  margin-left: 2vw;
+}
+
 
 app-footer {
   /* footer is set to absolute, sticking to the bottom: 0 of the 
