@@ -1,0 +1,11 @@
+.featured-section{
+    margin-top: 10vw;
+    padding-left: 10vw;
+    padding-right: 10vw;
+    padding-bottom: 10vw;
+    background-color: var(--primary-color);
+}
+
+h2 {
+    text-transform: uppercase;
+}
