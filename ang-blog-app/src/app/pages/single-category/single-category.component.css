@@ -1,0 +1,12 @@
+.category-hero {
+    
+    padding: 5.5vw;
+    background-color: var(--primary-color);
+    color: var(--secondary-color)
+    
+}
+
+button {
+    background-color: var(--primary-color);
+    color: var(--secondary-color);
+}

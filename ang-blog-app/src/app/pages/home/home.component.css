@@ -9,3 +9,11 @@
 h2 {
     text-transform: uppercase;
 }
+
+.latest-title {
+    color: var(--primary-color)
+}
+
+.latest-text {
+    color:var(--text-body-color)
+}
