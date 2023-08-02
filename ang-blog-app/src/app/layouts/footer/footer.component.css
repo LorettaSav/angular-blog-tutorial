@@ -1,10 +1,7 @@
-main {
-    background-color: rgb(12, 135, 94);
+footer {
+    height: 9vw;
     padding: 2vw;
-    color: rgb(239, 239, 228);
+    background-color: var(--navbar-footer-color);
+    margin-top: 85vh;
 }
 
-p {
-    
-    margin: 0;
-}

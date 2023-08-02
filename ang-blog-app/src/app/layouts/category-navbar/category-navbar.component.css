@@ -1,0 +1,9 @@
+nav {
+    margin-top: 7vw;
+    height: 4vw;
+    background-color: var(--navbar-footer-color);
+}
+
+.nav-link{
+    font-size: 1.3em;
+}

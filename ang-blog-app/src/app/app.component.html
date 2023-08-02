@@ -1,24 +1,10 @@
-<main>
-  <header>
-    <app-header></app-header>
-  </header>
-  <nav>
-    <app-category-navbar></app-category-navbar>
-  </nav>
-  <section class="content">
-    <router-outlet> Routes: </router-outlet>
-    <h1>my blog app</h1>
-    <h1>my blog app</h1>
-    <h1>my blog app</h1>
-    <h1>my blog app</h1>
-    <h1>my blog app</h1>
-    
-    
+<app-header></app-header>
 
-  </section>
-  <footer>
-    <app-footer> </app-footer>
-  </footer>
-</main>
+<app-category-navbar></app-category-navbar>
 
+<router-outlet> Routes: </router-outlet>
 
+<div class="app-body">
+  <app-post-card></app-post-card>
+</div>
+<app-footer> </app-footer>

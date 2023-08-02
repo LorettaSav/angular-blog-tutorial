@@ -1,0 +1,11 @@
+.card{
+    width: 30vw;
+}
+
+small{
+    text-transform: uppercase;
+}
+
+h5 {
+    color: var(--primary-color)
+}
