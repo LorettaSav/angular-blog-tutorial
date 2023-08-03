@@ -1,9 +1,26 @@
-<form action="">
-  <div>
-    <input type="text" />
+<div class="card shadow-effect mt-5 p-4">
+  <div class="card-body">
+    <h4>Leave a comment</h4>
+    <p>Use this form</p>
   </div>
-  <div>
-    <textarea placeholder="Leave your comment here" rows="10" cols="5"> </textarea>
-  </div>
-  <button class="btn btn-block btn-info btn-sub"> Submit Comment</button>
-</form>
+  <form class="form">
+    <div class="mb-3">
+      <label for="name" class="form-label" >Name</label>
+      <input
+        type="text"
+        class="form-control form-control-lg"
+        id="name"
+        aria-describedby="enter name here"
+      />
+    </div>
+    <div class="mb-3">
+      <label for="textarea" class="form-label">Comment</label>
+      <textarea
+        class="form-control form-control-lg"
+        id="textarea"
+        rows="10"
+      ></textarea>
+    </div>
+    <button class="btn btn-info">Submit Comment</button>
+  </form>
+</div>

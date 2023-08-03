@@ -1,0 +1,24 @@
+a,small {
+    text-transform: uppercase;
+}
+
+a {
+    text-decoration: none;
+    color: var(--link-text-color)
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+h4 {
+    color: var(--primary-color);
+}
+
+h6 {
+    color: var(--body-text-color)
+}
+
+.comment-box {
+    background-color: var(--secondary-color);
+}
