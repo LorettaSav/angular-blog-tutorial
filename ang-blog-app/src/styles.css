@@ -46,3 +46,22 @@ button:hover {
   background-color: var(--hover-color) !important;
   border: var(--hover-color)
 }
+
+/* THEMES*/
+
+
+/* text */
+
+.text-theme-primary {
+  color: var(--primary-color);
+}
+.text-theme-secondary {
+  color: var(--secondary-color);
+}
+.text-theme-links {
+  color: var(--link-text-color);
+}
+.text-theme-body {
+  color: var(--body-text-color);
+
+}
