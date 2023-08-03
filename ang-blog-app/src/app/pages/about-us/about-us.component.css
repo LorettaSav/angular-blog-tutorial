@@ -1,0 +1,24 @@
+.card {
+    background-color: var(--primary-color);
+    margin-top: 10vw;
+    margin-left: 10vw;
+    margin-right: 10vw;
+}
+
+.card-body {
+    background-color: var(--secondary-color);
+}
+
+a {
+    text-decoration: none;
+    text-transform: uppercase;
+    color: var(--secondary-color);
+
+}
+
+h3 {
+    color: var(--secondary-color);
+}
+button {
+    background-color: var(--primary-color);
+}
