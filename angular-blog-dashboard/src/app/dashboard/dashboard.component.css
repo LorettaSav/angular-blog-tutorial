@@ -5,3 +5,8 @@
 h2 {
     color: var(--primary-color)
 }
+
+.card-body:hover {
+    background-color: rgb(189, 231, 217);
+    cursor: pointer;
+}

@@ -6,6 +6,7 @@
   --body-text-color: #596392;
   --link-text-color: #7280c3;
   --navbar-footer-color: #f9f9f9;
+  --hover-color: rgb(189, 231, 217);
 }
 
 body {
@@ -39,3 +40,7 @@ body {
   box-shadow: 0px 0px 2.5vw -0.7vw; 
 }
 
+button:hover {
+  background-color: var(--hover-color) !important;
+  border: var(--hover-color)
+}
