@@ -1,0 +1,7 @@
+.card-body {
+    background-color: var(--secondary-color);
+}
+
+h2 {
+    color: var(--primary-color)
+}
