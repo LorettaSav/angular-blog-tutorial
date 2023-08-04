@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "angular-blog-app-56197": {
+      "hosting": {
+        "angular-blog-dashboard": [
+          "angular-blog-app-56197"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "angular-blog-app-56197"
+  }
+}
